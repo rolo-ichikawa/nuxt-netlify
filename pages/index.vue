@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        nuxt-netlify
+        deployテストおおおおおおおおおおおおおおおおおお
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        てすとおおおおおおおおおおおおおお
       </h2>
       <div class="links">
         <a
